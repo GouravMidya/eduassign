@@ -11,6 +11,10 @@ Teachers today face the challenge of providing meaningful, personalized feedback
 - Identifying areas of improvement for each student
 - Providing analytics to help teachers focus their attention where it's most needed
 
+## Basic Flow of the application
+
+![process flow](https://github.com/user-attachments/assets/4fa722e4-ca4b-4ed5-a4bf-3272283b9cac)
+
 ## Features
 
 - **Automated Assignment Analysis**: Uses Gemini AI to evaluate student submissions
