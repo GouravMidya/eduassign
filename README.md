@@ -27,7 +27,7 @@ Teachers today face the challenge of providing meaningful, personalized feedback
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/eduassign.git
+git clone https://github.com/GouravMidya/eduassign.git
 cd eduassign/frontend
 ```
 
